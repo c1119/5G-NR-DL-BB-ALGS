@@ -12,3 +12,5 @@ poor.
 
 1. simulation results of a low complexity
 MIMO decoder, 2022-4-27
+2. simulation results of LMMSE equalizer,
+2022-9-26
