@@ -23,3 +23,5 @@ correlated noise, 2023-1-26
 6. simulation results updated, 2023-3-5
 7. minor updates to simulation results,
 2023-3-25
+8. simulation results of polar code,
+2023-7-30
