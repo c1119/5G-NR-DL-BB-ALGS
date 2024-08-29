@@ -27,3 +27,4 @@ correlated noise, 2023-1-26
 2023-7-30
 9. simulation report of PBCH demodulation, 2024-1-16
 10. updated PBCH demodulation report, 2024-2-25
+11. it is realized that the circular buffer was improperly limited in the PDSCH throughput simulation. don't want to rerun all the simulation. just let it be the performance for that parameter. 2024-8-29
