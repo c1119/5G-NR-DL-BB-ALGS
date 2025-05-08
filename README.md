@@ -31,3 +31,4 @@ correlated noise, 2023-1-26
 12. Today I decide to record some NR PBCH demodulation data as a goodbye to the busy and sick 2024, and hope to have a fruitful and healthy 2025, 2025-1-3
 13. Study Doppler spread estimation in the NR PBCH demodulation case, 2025-2-15
 14. Some progress in advanced receiver exploration is achieved, 2025-2-22
+15. Reassured the performance of advanced receiver in the full IR buffer case with some open issues to be studied further, 2025-5-8
