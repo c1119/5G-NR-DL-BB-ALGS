@@ -33,3 +33,4 @@ correlated noise, 2023-1-26
 14. Some progress in advanced receiver exploration is achieved, 2025-2-22
 15. Reassured the performance of advanced receiver in the full IR buffer case with some open issues to be studied further, 2025-5-8
 16. Closed the study item of enhanced receiver with a report for it had me exhausted, 2025-5-15
+17. Came back to the topic of enhanced receiver and made some improvement after a period of reflection, 2025-6-28
