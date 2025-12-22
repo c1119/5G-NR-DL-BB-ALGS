@@ -37,3 +37,4 @@ correlated noise, 2023-1-26
 18. Tried to optimize parameters of enhanced receiver and verified effectiveness across low to high correlation channel matrix, 2025-11-19
 19. Added initial version of enhanced receiver simulation report with full buffer rate matching, i.e. Ncb=25344, 2025-12-5
 20. Updated enhanced receiver simulation report with 64QAM results, 2025-12-14
+21. Updated enhanced receiver simulation report with QPSK results, 2025-12-22
