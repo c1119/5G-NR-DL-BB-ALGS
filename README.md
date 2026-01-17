@@ -39,3 +39,4 @@ correlated noise, 2023-1-26
 20. Updated enhanced receiver simulation report with 64QAM results, 2025-12-14
 21. Updated enhanced receiver simulation report with QPSK results, 2025-12-22
 22. Updated enhanced receiver simulation report with 256QAM results, 2025-12-25
+23. Let AI write summary of research work, 2026-1-17
