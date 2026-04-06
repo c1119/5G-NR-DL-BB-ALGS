@@ -40,3 +40,4 @@ correlated noise, 2023-1-26
 21. Updated enhanced receiver simulation report with QPSK results, 2025-12-22
 22. Updated enhanced receiver simulation report with 256QAM results, 2025-12-25
 23. Let AI write summary of research work, 2026-1-17
+24. Improved 256QAM performance of both low complexity MIMO decoder and enhanced receiver, 2026-4-6
