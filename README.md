@@ -42,3 +42,4 @@ correlated noise, 2023-1-26
 23. Let AI write summary of research work, 2026-1-17
 24. Improved 256QAM performance of both low complexity MIMO decoder and enhanced receiver, 2026-4-6
 25. Set up the platform for rank 8 test with initial report of LMMSE equalizer provided by the platform, 2026-9-6
+26. Updated the rank 8 report with some enhanced receiver results, 2026-9-23
